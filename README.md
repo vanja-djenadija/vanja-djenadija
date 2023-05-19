@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Vanja Đenadija</h1>
-<h3 align="center">Final year software engineering student</h3>
+![github-header-image](https://github.com/vanja-djenadija/vanja-djenadija/assets/130909026/f8e17f55-09e8-49a7-ad10-3a4e248bbd4f)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanja-djenadija&label=Profile%20views&color=0e75b6&style=flat" alt="vanja-djenadija" /> </p>
 
