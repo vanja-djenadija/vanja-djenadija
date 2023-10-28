@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanja Đenadija</h1>
-<h3 align="center">Final year software engineering student</h3>
-
+<h3 align="center">Software Engineer with Bachelor's Degree</h3>
+<h3 align="center">Master's Degree Student</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanja-djenadija&label=Profile%20views&color=0e75b6&style=flat" alt="vanja-djenadija" /> </p>
 
